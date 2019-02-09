@@ -20,17 +20,17 @@ public class Caneta {
 
 
     public String getModelo(){
-        return modelo;
+        return this.modelo;
     }
     public void setModelo(String m){
-        modelo = m;
+        this.modelo = m;
     }
     
     public double getPonta(){
-        return ponta;
+        return this.ponta;
     }
     public void setPonta(double p){
-        ponta = p;
+        this.ponta = p;
     }
     
            
